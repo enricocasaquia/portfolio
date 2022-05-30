@@ -45,12 +45,14 @@ body {
 
 .icon {
   list-style: none;
+  text-decoration: none;
   display: inline;
   padding: 20px;
 }
 
 .icon a {
   text-decoration: none;
+  list-style: none;
   color: #000000;
 }
 
