@@ -264,27 +264,27 @@ body {
   }
   
   .texto {
-    background: rgba(255,255,255, 0.1);
-    backdrop-filter: blur(4px);
-    -webkit-backdrop-filter: blur(4px);
+    background: rgba(255,255,255, 0.2);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
     padding: 30px 30px 30px 30px; 
   }
   
   .texto h2 {
     font-weight: 700;
-    font-size: 10px;
+    font-size: 12px;
   }
   
   .texto p {
     font-weight: 700;
-    font-size: 8px;
+    font-size: 9px;
     padding: 10px;
   }
   
   .projetos-titulo {
-    background: rgba(255,255,255, 0.1);
-    backdrop-filter: blur(4px);
-    -webkit-backdrop-filter: blur(4px);
+    background: rgba(255,255,255, 0.2);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
     margin: 0;
     margin-top: 40px;
     padding-right: 0px; 
